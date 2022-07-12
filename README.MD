@@ -4,6 +4,6 @@
 <br>
 <br>
 <div>
-<a href="https://github.com/claudiorfj">
-<center><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiorfj&layout=compact&langs_count=7&theme=dracula"/></center>
+<a align="center" href="https://github.com/claudiorfj">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiorfj&layout=compact&langs_count=7&theme=dracula"/>
 </div>
