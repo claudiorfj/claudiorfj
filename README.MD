@@ -1,6 +1,7 @@
 <h1>💻 Hello, World!</h1>
-
-🎓   Cursando Sistemas de Informação - UNIFEBE.
+Cláudio R. Fernandes
+24 Years old
+Studying Information Systems - UNIFEBE.
 <br>
 <br>
 <br>
