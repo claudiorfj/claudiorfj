@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cláudio R. Fernandes</h1>
-<h3 align="center">Currently I'm a frontend developer from Brazil</h3>
+<h3 align="center">I'm a frontend developer from Brazil</h3>
 
 - 🌱 I’m currently learning **React, Angular and Vue**
 
