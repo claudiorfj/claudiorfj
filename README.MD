@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cláudio R. Fernandes</h1>
 <h3 align="center">Currently I'm a web developer from Brazil</h3>
 
-- 🌱 I’m currently learning **React, Angular and Vue**
+- 🌱 I’m currently learning **React and Angular**
 
 - 📫 How to reach me **claudiorfj@gmail.com**
 
