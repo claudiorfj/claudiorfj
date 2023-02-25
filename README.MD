@@ -1,6 +1,5 @@
 
-
-### <div align="center">I'm Cláudio Fernandes, a front-end developer 👨‍💻 looking for a new opportunity 🚀</div>  
+### <div align="center">I'm Cláudio Fernandes, a front-end developer 👨‍💻 🚀</div>  
   
 
 - 🌱 I’m currently studying React  
