@@ -6,6 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cldfrnnds) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/claudiorfj) 
 
 # 💻 Tech Stack:
+<center>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
@@ -16,16 +17,20 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) 
+</center>
 
 # 📊 GitHub Stats:
+<center>
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=claudiorfj&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=claudiorfj&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+</center>
 
 ### ✍️ Random Dev Quote
+<center>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=claudiorfj&icon=5&color=12)](https://visitcount.itsvg.in)
-
+</center>
 
 
